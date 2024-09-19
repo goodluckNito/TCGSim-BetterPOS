@@ -1,15 +1,15 @@
-# Better POS 
+## Better POS 
 This plugin removes the decimal point requirement in credit card inputs. So if your total is $45.67, you can simply enter 4567 then enter.
 
 File: BetterPOS.dll
 
-# Never Smelly Customers
+## Never Smelly Customers
 This plugin makes it so customers are never smelly.
 
 File: NeverSmelly.dll
 
 
-## How to use BepInEx plugins:
+### How to use BepInEx plugins:
 Download and install BepInEx 5.4.23.2 into your game's root folder, then put the plugin's .dll file into the BepInEx/plugins/ folder (if the plugins folder doesn't exist, run the game once and close it)
 
 You can find BepInEx releases here: https://github.com/BepInEx/BepInEx/releases
